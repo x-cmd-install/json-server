@@ -7,13 +7,13 @@ about:
   head: 89a34a4
   archived: false
   latestVersion: v1.0.0-beta.15
-  collectedAt: 2026-09-04T19:25:33Z
+  collectedAt: 2026-09-04T21:06:23Z
 timeline:
   created: 2013-11-27
   lastCommit: 2026-03-23
   lastRelease: 2026-03-23
 popularity:
-  star: 75702
+  star: 75703
   watcher: 981
   fork: 7267
   release: 49
@@ -81,6 +81,39 @@ total:
   openIssue: 617
   commit: 1042
 ---
+path: /home/runner/.x-repo/github.com/typicode/json-server
+collectedAt: 2026-09-04T21:06:24Z
+loc:
+  TypeScript:
+    code: 1373
+    comments: 35
+    blanks: 227
+    files: 16
+  Yaml:
+    code: 651
+    comments: 0
+    blanks: 207
+    files: 1
+  Json:
+    code: 112
+    comments: 0
+    blanks: 0
+    files: 4
+  Html:
+    code: 38
+    comments: 1
+    blanks: 7
+    files: 2
+  Markdown:
+    code: 0
+    comments: 158
+    blanks: 69
+    files: 1
+total:
+  code: 2312
+  comments: 194
+  blanks: 510
+  files: 24
 ---
 date: "2026-08-24"
 repo:
