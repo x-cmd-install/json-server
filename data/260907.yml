@@ -5,13 +5,13 @@ about:
   head: 89a34a4
   archived: false
   latestVersion: "v1.0.0-beta.15"
-  collectedAt: 2026-09-07T05:30:58Z
+  collectedAt: 2026-09-07T19:03:55Z
 timeline:
   created: 2013-11-27
   lastCommit: 2026-03-23
   lastRelease: 2026-03-23
 popularity:
-  star: 75705
+  star: 75703
   watcher: 982
   fork: 7267
   release: 49
@@ -80,7 +80,7 @@ total:
   commit: 1042
 ---
 path: /home/runner/.x-repo/github.com/typicode/json-server
-collectedAt: 2026-09-07T05:31:00Z
+collectedAt: 2026-09-07T19:03:56Z
 loc:
   TypeScript:
     code: 1373
@@ -210,7 +210,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:31:01+00:00
+  collectedAt: 2026-09-07T19:03:57+00:00
   platform:
     darwin/arm64:
       name:  null
