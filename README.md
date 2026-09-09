@@ -7,7 +7,7 @@ Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - **Latest release**: `v1.0.0-beta.15` (2026-03-23)
 - **Last commit**: 2026-03-23
 - **License**: MIT
-- **Stars**: 75707 · **Forks**: 7269 · **Open issues**: 1193 · **Contributors**: 80
+- **Stars**: 75708 · **Forks**: 7268 · **Open issues**: 1193 · **Contributors**: 80
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/json-server> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:52:14Z._
+_Last regenerated: 2026-09-09T19:48:18Z._
