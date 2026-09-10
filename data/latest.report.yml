@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.0-beta.15"
   latestRelease: "v1.0.0-beta.15"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:23:40Z
+  collectedAt: 2026-09-10T21:24:59Z
 timeline:
   created: 2013-11-27
   lastCommit: 2026-03-23
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-23
   lastPrerelease: 
 popularity:
-  star: 75707
+  star: 75705
   watcher: 982
   fork: 7268
   release: 49
@@ -84,7 +84,7 @@ total:
   commit: 1042
 ---
 path: /home/runner/.x-repo/github.com/typicode/json-server
-collectedAt: 2026-09-10T17:23:42Z
+collectedAt: 2026-09-10T21:25:00Z
 loc:
   TypeScript:
     code: 1373
