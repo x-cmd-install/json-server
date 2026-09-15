@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 75,707 · **Forks**: 7,271 · **Open issues**: 1,193 · **Contributors**: 80
+- **Stars**: 75,709 · **Forks**: 7,271 · **Open issues**: 1,193 · **Contributors**: 80
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 0 | 0 | 4 | 2 | 1 | 0 |
-| 90d | 2026-06-16 | 0 | 0 | 6 | 2 | 2 | 0 |
-| last180d | 2026-03-18 | 2 | 5 | 18 | 5 | 5 | 0 |
-| 360d | 2025-09-19 | 11 | 48 | 22 | 14 | 9 | 52 |
-| last720d | 2024-09-24 | 12 | 50 | 29 | 25 | 20 | 69 |
+| 30d | 2026-08-16 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 0 | 0 | 3 | 2 | 1 | 0 |
+| 90d | 2026-06-17 | 0 | 0 | 6 | 2 | 2 | 0 |
+| last180d | 2026-03-19 | 2 | 5 | 18 | 4 | 5 | 0 |
+| 360d | 2025-09-20 | 11 | 48 | 22 | 14 | 9 | 52 |
+| last720d | 2024-09-25 | 11 | 50 | 29 | 25 | 20 | 67 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for json-server lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:56:51Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:08:59Z._
