@@ -30,9 +30,9 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 75,708 · **Forks**: 7,270 · **Open issues**: 1,193 · **Contributors**: 80
+- **Stars**: 75,706 · **Forks**: 7,268 · **Open issues**: 1,193 · **Contributors**: 80
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 0 | 0 | 3 | 2 | 1 | 0 |
-| 90d | 2026-06-18 | 0 | 0 | 6 | 2 | 2 | 0 |
-| last180d | 2026-03-20 | 2 | 2 | 18 | 4 | 5 | 0 |
-| 360d | 2025-09-21 | 11 | 48 | 22 | 14 | 9 | 52 |
-| last720d | 2024-09-26 | 11 | 50 | 29 | 25 | 20 | 67 |
+| 30d | 2026-08-18 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 0 | 0 | 3 | 2 | 1 | 0 |
+| 90d | 2026-06-19 | 0 | 0 | 6 | 2 | 2 | 0 |
+| last180d | 2026-03-21 | 1 | 2 | 18 | 4 | 5 | 0 |
+| 360d | 2025-09-22 | 11 | 48 | 22 | 14 | 9 | 52 |
+| last720d | 2024-09-27 | 11 | 50 | 29 | 25 | 20 | 67 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for json-server lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:09:31Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:08:46Z._
