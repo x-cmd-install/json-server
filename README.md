@@ -4,7 +4,7 @@
 
 Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
-[![x-cmd/install — json-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/json-server.svg)](https://x-cmd.com/install/json-server)
+[![x-cmd/install — json-server Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/json-server.svg)](https://x-cmd.com/install/json-server)
 
 ## Install
 
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 75,714 · **Forks**: 7,266 · **Open issues**: 1,193 · **Contributors**: 80
+- **Stars**: 75,715 · **Forks**: 7,267 · **Open issues**: 1,193 · **Contributors**: 80
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 3 | 2 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 5 | 2 | 2 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 18 | 3 | 5 | 0 |
-| 360d | 2025-09-27 | 11 | 48 | 22 | 14 | 9 | 52 |
-| last720d | 2024-10-02 | 11 | 50 | 29 | 25 | 20 | 67 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 3 | 2 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 5 | 2 | 2 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 17 | 3 | 5 | 0 |
+| 360d | 2025-09-28 | 11 | 48 | 22 | 14 | 9 | 52 |
+| last720d | 2024-10-03 | 11 | 50 | 29 | 25 | 20 | 67 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for json-server lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:59:53Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:12:38Z._
