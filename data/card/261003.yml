@@ -213,4 +213,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
-{"id":300375540,"author":{"login":"typicode","id":5502029,"node_id":"MDQ6VXNlcjU1MDIwMjk=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAOEHzs4R5130","tag_name":"v1.0.0-beta.15","target_commitish":"main","name":"v1.0.0-beta.15","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-03-23T19:39:28Z","updated_at":"2026-03-23T19:41:01Z","published_at":"2026-03-23T19:40:05Z","assets":[],"body":"## What's Changed\r\n* Fix: Return JSON response for 404 errors instead of plain text by @codehassoul in https://github.com/typicode/json-server/pull/1738\r\n\r\n## New Contributors\r\n* @codehassoul made their first contribution in https://github.com/typicode/json-server/pull/1738\r\n\r\n**Full Changelog**: https://github.com/typicode/json-server/compare/v1.0.0-beta.14...v1.0.0-beta.15","mentions_count":1}
