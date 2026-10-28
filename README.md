@@ -30,8 +30,8 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 75,739 · **Forks**: 7,267 · **Open issues**: 1,194 · **Contributors**: 80
+- **Stars**: 75,740 · **Forks**: 7,270 · **Open issues**: 1,194 · **Contributors**: 80
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-08-28 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-07-29 | 0 | 0 | 3 | 2 | 2 | 0 |
-| last180d | 2026-04-30 | 0 | 0 | 13 | 2 | 6 | 0 |
-| 360d | 2025-11-01 | 11 | 48 | 23 | 14 | 10 | 48 |
-| last720d | 2024-11-06 | 11 | 50 | 28 | 23 | 21 | 67 |
+| 30d | 2026-09-28 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-08-29 | 0 | 0 | 3 | 0 | 1 | 0 |
+| 90d | 2026-07-30 | 0 | 0 | 3 | 2 | 2 | 0 |
+| last180d | 2026-05-01 | 0 | 0 | 12 | 2 | 5 | 0 |
+| 360d | 2025-11-02 | 11 | 48 | 23 | 14 | 10 | 48 |
+| last720d | 2024-11-07 | 11 | 50 | 28 | 23 | 21 | 67 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for json-server lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:53:48Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:32:03Z._
