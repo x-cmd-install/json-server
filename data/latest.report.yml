@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.0-beta.15"
   latestRelease: "v1.0.0-beta.15"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:53:29Z
+  collectedAt: 2026-11-28T09:06:24Z
 timeline:
   created: 2013-11-27
   lastCommit: 2026-03-23
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-03-23
   lastPrerelease: 
 popularity:
-  star: 75748
+  star: 75749
   watcher: 976
-  fork: 7249
+  fork: 7250
   release: 49
   contributor: 80
   pullRequest: 523
@@ -28,7 +28,7 @@ language:
 totalBytes: 48431
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 4
@@ -36,7 +36,7 @@ recent:
     openIssue: 1
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 7
@@ -44,7 +44,7 @@ recent:
     openIssue: 2
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 7
@@ -52,7 +52,7 @@ recent:
     openIssue: 2
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 0
     openPR: 10
@@ -60,7 +60,7 @@ recent:
     openIssue: 4
     commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 11
     mergedPR: 48
     openPR: 23
@@ -68,7 +68,7 @@ recent:
     openIssue: 11
     commit: 47
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 11
     mergedPR: 50
     openPR: 29
@@ -84,7 +84,7 @@ total:
   commit: 1042
 ---
 path: /home/runner/.x-repo/github.com/typicode/json-server
-collectedAt: 2026-11-27T09:53:31Z
+collectedAt: 2026-11-28T09:06:25Z
 loc:
   TypeScript:
     code: 1373
